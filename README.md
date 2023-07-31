@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeSouzaSR
-- 👀 I’m interested in Astrophysics and Data Science 
-- 🌱 I’m currently learning R and Data Science
-- 💞️ I’m looking to working on scientific researches and collaboratives data science projects
+- 👀 I’m interested in Astrophysics and Programming 
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to working on scientific researches, System Development and collaboratives projects
 - 📫 How to reach sandro dot fisica at gmail dot com
 
 <!---
